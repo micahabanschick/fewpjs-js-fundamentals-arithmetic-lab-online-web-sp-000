@@ -5,4 +5,4 @@ let num2 = 31;
 
 const multiply = num1 * num2;
 
-const random = Math.ceil(Math.randon());
+let random = Math.ceil(Math.randon());
